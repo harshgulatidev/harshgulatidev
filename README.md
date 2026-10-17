@@ -8,7 +8,7 @@ I build responsive websites and practical web applications, with a focus on usef
 
 A private, browser-based redactor for cleaning secrets and personal details from logs before sharing them in an AI chat, support ticket or public issue.
 
-**[Open ShareSafe](https://harshgulatidev.github.io/sharesafe/)** · **[Explore the source](https://github.com/harshgulatidev/sharesafe)**
+**[Open ShareSafe](https://westwordcorp.com/tools/sharesafe/)** · **[Explore the source](https://github.com/harshgulatidev/sharesafe)**
 
 ![ShareSafe interface](https://raw.githubusercontent.com/harshgulatidev/sharesafe/main/assets/preview.svg)
 
