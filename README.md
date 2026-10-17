@@ -17,7 +17,7 @@ A private, browser-based redactor for cleaning secrets and personal details from
 - Processes everything in the browser; no account or backend
 - Open-source under the MIT License
 
-**Built with:** HTML, CSS, JavaScript and GitHub Pages.
+**Built with:** HTML, CSS, JavaScript and Hostinger static hosting.
 
 ## Featured project · MarginDesk
 
