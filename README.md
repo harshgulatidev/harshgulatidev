@@ -8,7 +8,7 @@ I build responsive websites and practical web applications, with a focus on usef
 
 A private, browser-based redactor for cleaning secrets and personal details from logs before sharing them in an AI chat, support ticket or public issue.
 
-**[Open ShareSafe](https://westwordcorp.com/tools/sharesafe/)** · **[Explore the source](https://github.com/harshgulatidev/sharesafe)**
+**[Explore the source](https://github.com/harshgulatidev/sharesafe)**
 
 ![ShareSafe interface](https://raw.githubusercontent.com/harshgulatidev/sharesafe/main/assets/preview.svg)
 
@@ -17,13 +17,13 @@ A private, browser-based redactor for cleaning secrets and personal details from
 - Processes everything in the browser; no account or backend
 - Open-source under the MIT License
 
-**Built with:** HTML, CSS, JavaScript and Hostinger static hosting.
+**Built with:** HTML, CSS and JavaScript.
 
 ## Featured project · MarginDesk
 
 A pricing calculator for independent sellers. Understand what remains after discounts, shipping, packaging and platform fees, then compare different pricing scenarios.
 
-**[Try the live app](https://westwordcorp.com/tools/margindesk/)** · **[Explore the source](https://github.com/harshgulatidev/margindesk)**
+**[Explore the source](https://github.com/harshgulatidev/margindesk)**
 
 ![MarginDesk pricing calculator](https://raw.githubusercontent.com/harshgulatidev/margindesk/main/desktop.png)
 
@@ -31,7 +31,7 @@ A pricing calculator for independent sellers. Understand what remains after disc
 - Saved scenarios, JSON export and printable reports
 - Responsive desktop and mobile layouts
 - Browser-local storage with no account or third-party browser scripts
-- Automated calculation tests and GitHub Actions deployment to Hostinger
+- Automated calculation tests and GitHub Actions deployment to GitHub Pages
 
 **Built with:** HTML, CSS, JavaScript, Express, Node.js testing, GitHub Actions and SSH. Open-source under the MIT License.
 
