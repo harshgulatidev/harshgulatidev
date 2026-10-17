@@ -15,10 +15,10 @@ A pricing calculator for independent sellers. Understand what remains after disc
 - Profit, margin, break-even and target-price calculations
 - Saved scenarios, JSON export and printable reports
 - Responsive desktop and mobile layouts
-- Browser-local storage with no account or third-party runtime dependencies
+- Browser-local storage with no account or third-party browser scripts
 - Automated calculation tests and GitHub Actions deployment to Hostinger
 
-**Built with:** HTML, CSS, JavaScript, Node.js testing, GitHub Actions and SSH.
+**Built with:** HTML, CSS, JavaScript, Express, Node.js testing, GitHub Actions and SSH. Open-source under the MIT License.
 
 ## How I work
 
