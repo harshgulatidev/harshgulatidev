@@ -4,6 +4,21 @@ I build responsive websites and practical web applications, with a focus on usef
 
 **Open to freelance projects and collaborations.**
 
+## Featured project · ShareSafe
+
+A private, browser-based redactor for cleaning secrets and personal details from logs before sharing them in an AI chat, support ticket or public issue.
+
+**[Open ShareSafe](https://harshgulatidev.github.io/sharesafe/)** · **[Explore the source](https://github.com/harshgulatidev/sharesafe)**
+
+![ShareSafe interface](https://raw.githubusercontent.com/harshgulatidev/sharesafe/main/assets/preview.svg)
+
+- Scans common credentials, emails, phone numbers and IP addresses
+- Supports custom words and phrases, local text files and consistent placeholders
+- Processes everything in the browser; no account or backend
+- Open-source under the MIT License
+
+**Built with:** HTML, CSS, JavaScript and GitHub Pages.
+
 ## Featured project · MarginDesk
 
 A pricing calculator for independent sellers. Understand what remains after discounts, shipping, packaging and platform fees, then compare different pricing scenarios.
