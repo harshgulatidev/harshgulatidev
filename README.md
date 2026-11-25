@@ -2,7 +2,9 @@
 
 Founder of **[WebPerky](https://webperky.com)** — an independent web and app development studio.
 
-[Explore services](https://webperky.com/shop) · [My portfolio](https://webperky.com/harshgulati)
+[Explore services](https://webperky.com/shop) · [Developer portfolio](https://webperky.com/portfolio)
+
+[Client website projects](https://webperky.com/work) · [Free font family downloads](https://webperky.com/free-fonts)
 
 Business websites, e-commerce, web apps and personalised wedding invitation websites. Open to hourly, project and ongoing remote work worldwide.
 
