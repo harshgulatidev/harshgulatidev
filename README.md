@@ -1,6 +1,6 @@
 # Hi, I'm Harsh Gulati
 
-Founder of **[WebPerky](https://webperky.com)** — an independent web and app development studio.
+Freelance web developer and founder of **[WebPerky](https://webperky.com)**, an independent web and app development studio.
 
 [Explore services](https://webperky.com/shop) · [Developer portfolio](https://webperky.com/portfolio)
 
@@ -11,6 +11,10 @@ Business websites, e-commerce, web apps and personalised wedding invitation webs
 I build responsive websites and practical web applications, with a focus on useful features, clear interfaces and reliable deployment.
 
 **Open to freelance projects and collaborations.**
+
+## WebPerky blog
+
+[Website repair or redesign?](https://webperky.com/blog/website-repair-or-redesign) helps small businesses decide which parts of an existing site to fix and what to plan before a rebuild. [Browse all website guides](https://webperky.com/blog).
 
 ## Featured project · ShareSafe
 
