@@ -68,3 +68,12 @@ Need a business website, product catalogue, wedding invitation website or fixes 
 [See WebPerky](https://webperky.com/) · [Email website@webperky.com](mailto:website@webperky.com)
 
 Send your current URL (if any), the outcome you need and your preferred timeline so we can define a focused scope.
+
+
+## Featured project · DailyKit
+
+Six free everyday browser tools: percentage and discount calculators, metric/imperial length conversion, a word and character counter, JSON formatting and URL component encoding.
+
+[Explore DailyKit source](https://github.com/harshgulatidev/dailykit)
+
+Built with HTML, CSS and JavaScript. Inputs stay in the page, without accounts or third-party scripts. Includes calculation and error-case tests, labelled controls and live result announcements.
