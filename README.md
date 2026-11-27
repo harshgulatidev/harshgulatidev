@@ -55,3 +55,16 @@ A pricing calculator for independent sellers. Understand what remains after disc
 - Use version control and repeatable deployments.
 
 Browse my repositories to see working projects and their implementation details.
+
+
+## Free website launch checklist
+
+[Use the small business website launch checklist](website-launch-checklist.md) to review mobile layouts, enquiry delivery, content, search basics and owner handover before launch. It includes a reusable sign-off table.
+
+## Work with me
+
+Need a business website, product catalogue, wedding invitation website or fixes to an existing site?
+
+[See WebPerky](https://webperky.com/) · [Email website@webperky.com](mailto:website@webperky.com)
+
+Send your current URL (if any), the outcome you need and your preferred timeline so we can define a focused scope.
