@@ -70,3 +70,14 @@ A practical handover checklist for a brochure site, business catalogue or enquir
 | Owner sign-off | |
 
 Need help implementing or repairing a business website? [Explore WebPerky](https://webperky.com/) or email [website@webperky.com](mailto:website@webperky.com).
+
+
+## Mobile-data enquiry retest — 28 November 2026
+
+- [ ] Repeat the enquiry form and contact-link checks on a real phone using mobile data as well as Wi-Fi.
+- [ ] Confirm the actual recipient number or destination for phone, WhatsApp, email and map links.
+- [ ] Record the connection type, inbox receipt and successful reply in the sign-off record.
+
+Thanks to Frank Apokwueze for the mobile-data testing suggestion in the LinkedIn discussion.
+
+For an existing site with few enquiries, use the [website enquiry diagnosis guide](https://webperky.com/website-enquiries.php) to separate traffic, offer clarity, mobile usability and email delivery issues before deciding on a repair or rebuild.
